@@ -1,0 +1,21 @@
+****这个文件夹里面的代码是在学习直线类别的线性回归(注意：不是曲线的)时所创建，其中包含使用C++和python实现的两种。
+
+****The code in this folder was created while learning linear regression, 
+****which includes two implementations using C++and Python. 
+****If you have any questions, please feel free to raise them
+
+在这个目录内，主要讨论使用C++来进行线性回归的效果：
+       根据我的测试，python的平均消耗时间为0.033774秒，而C++的平均消耗时间为0.00578秒。
+       使用C++来进行同样的代码，产生的效果相同，但实际耗时远远低于python的。
+
+如果大家对代码有更好的意见，欢迎提出修改
+
+特别注明： python代码是在学习的时候，模仿吴恩达老师所写，因此这里仅用于作为参考对照
+
+According to my testing, the average consumption time of Python is 0.033774 seconds, while the average consumption time of C++is 0.00578 seconds
+
+Using C++for the same code produces the same effect, but the actual time consumption is much lower than Python's
+
+If you have any better suggestions, please feel free to propose modifications
+
+Special note: Python code is imitated by Professor Wu Enda during learning, so it is only used as a reference and reference here
